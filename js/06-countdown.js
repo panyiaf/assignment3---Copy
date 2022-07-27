@@ -6,4 +6,4 @@ if (Number.isInteger(countDownNumber)) {
     }
 }  else {
     console.log('You did not input a number')
-}
+} 

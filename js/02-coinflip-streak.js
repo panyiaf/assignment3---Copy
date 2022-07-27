@@ -8,4 +8,4 @@ do {
     } else {
         console.log('Tails');
     }
-} while (coinFlip < 1);
+} while (coinFlip < 1); 
